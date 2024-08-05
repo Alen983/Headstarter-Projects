@@ -7,7 +7,7 @@ The part I am most excited about this fellowship is I will be able to build my :
 1.Vision  
 2.Personal brand  
 3.Interview prep  
-4.Project 
+4.Project  
 5.Feedback  
 
 I look forward to sharing my progress and technical growth over the next few weeks. 
