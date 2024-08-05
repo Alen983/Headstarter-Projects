@@ -1,4 +1,4 @@
-# Headstarter-Projects
+# Headstarter-Project
 "So, I have some news to share. 
 I am now a Headstarter Software Engineering fellow.  
 I will be doing building 5 AI projects in 5 weeks and and as my final project :  
